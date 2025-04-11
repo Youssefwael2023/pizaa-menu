@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pizaa-menu/static/css/main.688baa8c.css",
+    "main.js": "/pizaa-menu/static/js/main.dbcd9ca3.js",
+    "index.html": "/pizaa-menu/index.html",
+    "main.688baa8c.css.map": "/pizaa-menu/static/css/main.688baa8c.css.map",
+    "main.dbcd9ca3.js.map": "/pizaa-menu/static/js/main.dbcd9ca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.688baa8c.css",
+    "static/js/main.dbcd9ca3.js"
+  ]
+}
